@@ -54,7 +54,7 @@ app.post('/send_mail',cors(),async (req,res)=>{
   console.log(textResponse)
     const transport = nodemailer.createTransport({
       host: process.env.MAIL_HOST,
-      secure: false,
+      secure: true,
       port: process.env.MAIL_PORT,
       auth: {
         user: process.env.MAIL_USER,
