@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.4140a969.css","mappings":"4FAEA,yBACE,SACE,aACF,CACF","sources":["index.css"],"sourcesContent":["@import url(\"https://fonts.googleapis.com/css2?family=Amatic+SC&family=Manrope&display=swap\");\r\n\r\n@media (max-width: 500px) {\r\n  .mui-box {\r\n    flex: 0 0 auto;\r\n  }\r\n}"],"names":[],"sourceRoot":""}
