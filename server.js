@@ -77,7 +77,7 @@ app.post('/send_mail',cors(),async (req,res)=>{
           line-height: 2;
           font-size: 20px; 
           ">
-          <h2>Smellycat - Pawsitively Amazing Furever Friends</h2>
+          <h1>Smellycat - Pawsitively Amazing Furever Friends</h1>
           <br/>
           <p>${textResponse}</p>
           <br/>
